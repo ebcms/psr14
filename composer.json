@@ -1,0 +1,21 @@
+{
+    "name": "ebcms/hook",
+    "description": "php hook",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ebcms",
+            "email": "1540847821@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ebcms\\": "src/"
+        }
+    },
+    "require": {
+        "psr/event-dispatcher": "^1.0",
+        "fig/event-dispatcher-util": "^1.1"
+    }
+}
