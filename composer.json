@@ -1,6 +1,6 @@
 {
-    "name": "ebcms/hook",
-    "description": "php hook",
+    "name": "ebcms/psr14",
+    "description": "php psr14",
     "type": "library",
     "license": "MIT",
     "authors": [
